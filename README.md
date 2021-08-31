@@ -1,10 +1,11 @@
 # github.com/ryanwclark/docker-mariadb
 
-[![GitHub release](https://img.shields.io/github/v/tag/ryanwclark/docker-mariadb?style=flat-square)](https://github.com/ryanwclark/docker-mariadb/releases/latest)
 [![Build Status](https://img.shields.io/github/workflow/status/ryanwclark/docker-mariadb/build?style=flat-square)](https://github.com/ryanwclark/docker-mariadb/actions?query=workflow%3Abuild)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/mariadb.svg?style=flat-square&logo=docker)](https://hub.docker.com/ryanwclark/mariadb/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/mariadb.svg?style=flat-square&logo=docker)](https://hub.docker.com/ryanwclark/mariadb/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=debian&logoColor=white)](https://mariadb.org/)
+
+* * *
 
 ## About
 
