@@ -28,10 +28,6 @@ Also has the capability of backing up embedded in the container based on the [ry
 * select how often to run a dump
 * select when to start the first dump, whether time of day or relative to container start time
 
-## Maintainer
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 - [github.com/ryanwclark/docker-mariadb](#githubcomryanwclarkdocker-mariadb)
